@@ -1,0 +1,20 @@
+body {
+    background-color: #000 !important;
+    color: #fff !important;
+}
+
+.jumbotron h3 {
+    color: #000;
+}
+
+#movies img, #movie img {
+    width: auto;
+}
+
+#movies .col-md3 .well {
+    height: 390px;
+}
+
+#movies .col-md-3 img {
+    height: 300px;
+}
